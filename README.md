@@ -3,8 +3,11 @@
 Homebrew casks for apps by biggypanda.
 
 ```sh
+brew trust biggypanda/tap
 brew install --cask biggypanda/tap/freemymacos
 ```
+
+Homebrew asks you to trust a third-party tap once before installing from it.
 
 | Cask | App |
 |---|---|
